@@ -1,1 +1,2 @@
 # Python-mini-projects
+1. Geography quiz game : To run the geography quiz script, first, install Python from python.org if you haven’t already. Download the script from GitHub and save it. Open a terminal or command prompt, navigate to the script’s folder, and run python quiz.py. Answer the questions interactively, and your final score and percentage will be displayed. If you score above 35%, you pass; otherwise, you fail. You can also modify the script to add more questions or improve its functionality. Enjoy the quiz!
